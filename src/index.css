@@ -124,3 +124,8 @@ h1 {
 .link a:hover {
   background-color: #ff4fa8;
 }
+
+.spinner {
+  display: grid;
+  place-content: center;
+}
