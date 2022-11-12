@@ -25,3 +25,4 @@
 |20| [Ecommerce](https://github.com/xml12333/reactJS/tree/20-ecommerce)| [Demo](https://nikt-ecommerce.netlify.app/)| ![Thumbnail](info/20-ecommerce/info_thumbnail.jpg)|
 |21| [Dashboard](https://github.com/xml12333/reactJS/tree/21-dashboard)| [Demo](https://nikt-dashboard.netlify.app/)| ![Thumbnail](info/21-dashboard/info_thumbnail.jpg)|
 |22| [Filmpire](https://github.com/xml12333/reactJS/tree/22-filmpire)| [Demo](https://nikt-filmpire.netlify.app/)| ![Thumbnail](info/22-filmpire/info_thumbnail.jpg)|
+|23| [Ecommerce2](https://github.com/xml12333/reactJS/tree/23-ecommerce2)| [Demo](https://nikt-ecommerce2.netlify.app/)| ![Thumbnail](info/23-ecommerce2/info_thumbnail.jpg)|
