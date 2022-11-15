@@ -4,8 +4,9 @@ function App() {
   const [url, setUrl] = useState("");
   const [qrcode, setQrcode] = useState("");
   const GenerateQrCode = () => {
+    console.log(url.split(' ').join("\r\n"));
     QRCode.toDataURL(
-      url,
+      url.split(' ').join("\r\n"),
       {
         width: 1000,
         margin: 2,
@@ -16,7 +17,7 @@ function App() {
       },
       (err, url) => {
         if (err) return console.error(err);
-        console.log(url);
+        
         setQrcode(url);
       }
     );
