@@ -4,9 +4,9 @@ function App() {
   const [url, setUrl] = useState("");
   const [qrcode, setQrcode] = useState("");
   const GenerateQrCode = () => {
-    console.log(url.split(' ').join("\r\n"));
+    console.log(url);
     QRCode.toDataURL(
-      url.split(' ').join("\r\n"),
+      url,
       {
         width: 1000,
         margin: 2,
@@ -25,8 +25,8 @@ function App() {
   return (
     <div className="app">
       <h1>QR Code Generator</h1>
-      <input
-        type="text"
+      <textarea
+        rows={5}
         placeholder="e.g. https://google.com"
         value={url}
         onChange={(e) => setUrl(e.target.value)}
