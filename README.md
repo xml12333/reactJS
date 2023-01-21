@@ -1,4 +1,4 @@
-# crowdfunding blockchain
+# Crowdfunding blockchain
 ```
 npm i
 npm start
