@@ -30,3 +30,5 @@
 |25| [Gpt3](https://github.com/xml12333/reactJS/tree/25-gpt3)| [Demo](https://nikt-gpt3.netlify.app/)| ![Thumbnail](info/25-gpt3/info_thumbnail.jpg)|
 |26| [Shareme](https://github.com/xml12333/reactJS/tree/26-shareme)| [Demo](https://nikt-shareme.netlify.app/)| ![Thumbnail](info/26-shareme/info_thumbnail.jpg)|
 |27| [Crowdfunding blockchain](https://github.com/xml12333/reactJS/tree/27-crowdfunding-blockchain)| [Demo](https://nikt-crowdfunding-blockchain.netlify.app/)| ![Thumbnail](info/27-crowdfunding-blockchain/info_thumbnail.jpg)|
+|28| [Chat gpt](https://github.com/xml12333/reactJS/tree/28-chat-gpt)| [Demo](https://nikt-chat-gpt.netlify.app/)| ![Thumbnail](info/28-chat-gpt/info_thumbnail.jpg)|
+|29| [Ai image generator](https://github.com/xml12333/reactJS/tree/29-ai-image-generator)| [Demo](https://nikt-ai-image-generator.netlify.app/)| ![Thumbnail](info/29-ai-image-generator/info_thumbnail.jpg)|
