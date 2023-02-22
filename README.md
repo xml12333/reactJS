@@ -33,3 +33,4 @@
 |28| [Chat gpt](https://github.com/xml12333/reactJS/tree/28-chat-gpt)| [Demo](https://nikt-chat-gpt.netlify.app/)| ![Thumbnail](info/28-chat-gpt/info_thumbnail.jpg)|
 |29| [Ai image generator](https://github.com/xml12333/reactJS/tree/29-ai-image-generator)| [Demo](https://nikt-ai-image-generator.netlify.app/)| ![Thumbnail](info/29-ai-image-generator/info_thumbnail.jpg)|
 |30| [Youtube clone](https://github.com/xml12333/reactJS/tree/30-youtube-clone)| [Demo](https://nikt-youtube-clone.netlify.app/)| ![Thumbnail](info/30-youtube-clone/info_thumbnail.jpg)|
+|31| [Fitnes exercises](https://github.com/xml12333/reactJS/tree/31-fitnes-exercises)| [Demo](https://nikt-fitnes-exercises.netlify.app/)| ![Thumbnail](info/31-fitnes-exercises/info_thumbnail.jpg)|
