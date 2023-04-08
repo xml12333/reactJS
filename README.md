@@ -37,3 +37,4 @@
 |32| [Spotify clone](https://github.com/xml12333/reactJS/tree/32-spotify-clone)| [Demo](https://nikt-spotify-clone.netlify.app/)| ![Thumbnail](info/32-spotify-clone/info_thumbnail.jpg)|
 |33| [Refine dashboard](https://github.com/xml12333/reactJS/tree/33-refine-dashboard)| [Demo](https://nikt-refine-dashboard.netlify.app/)| ![Thumbnail](info/33-refine-dashboard/info_thumbnail.jpg)|
 |34| [Keyword extractor](https://github.com/xml12333/reactJS/tree/34-keyword-extractor)| [Demo](https://nikt-keyword-extractor.netlify.app/)| ![Thumbnail](info/34-keyword-extractor/info_thumbnail.jpg)|
+|35| [3d portfolio](https://github.com/xml12333/reactJS/tree/35-3d-portfolio)| [Demo](https://nikt-3d-portfolio.netlify.app/)| ![Thumbnail](info/35-3d-portfolio/info_thumbnail.jpg)|
