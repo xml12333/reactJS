@@ -38,3 +38,4 @@
 |33| [Refine dashboard](https://github.com/xml12333/reactJS/tree/33-refine-dashboard)| [Demo](https://nikt-refine-dashboard.netlify.app/)| ![Thumbnail](info/33-refine-dashboard/info_thumbnail.jpg)|
 |34| [Keyword extractor](https://github.com/xml12333/reactJS/tree/34-keyword-extractor)| [Demo](https://nikt-keyword-extractor.netlify.app/)| ![Thumbnail](info/34-keyword-extractor/info_thumbnail.jpg)|
 |35| [3d portfolio](https://github.com/xml12333/reactJS/tree/35-3d-portfolio)| [Demo](https://nikt-3d-portfolio.netlify.app/)| ![Thumbnail](info/35-3d-portfolio/info_thumbnail.jpg)|
+|36| [3d ai](https://github.com/xml12333/reactJS/tree/36-3d-ai)| [Demo](https://nikt-3d-ai.netlify.app/)| ![Thumbnail](info/36-3d-ai/info_thumbnail.jpg)|
