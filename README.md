@@ -41,3 +41,4 @@
 |36| [3d ai](https://github.com/xml12333/reactJS/tree/36-3d-ai)| [Demo](https://nikt-3d-ai.netlify.app/)| ![Thumbnail](info/36-3d-ai/info_thumbnail.jpg)|
 |37| [Article ai](https://github.com/xml12333/reactJS/tree/37-article-ai)| [Demo](https://nikt-article-ai.netlify.app/)| ![Thumbnail](info/37-article-ai/info_thumbnail.jpg)|
 |38| [Promptopia](https://github.com/xml12333/reactJS/tree/38-promptopia)| [Demo](https://nikt-promptopia.netlify.app/)| ![Thumbnail](info/38-promptopia/info_thumbnail.jpg)|
+|39| [Car showcase](https://github.com/xml12333/reactJS/tree/39-car-showcase)| [Demo](https://nikt-car-showcase.netlify.app/)| ![Thumbnail](info/39-car-showcase/info_thumbnail.jpg)|
