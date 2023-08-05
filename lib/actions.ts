@@ -8,6 +8,7 @@ const apiUrl = isProduction ? process.env.NEXT_PUBLIC_GRAFBASE_API_URL || '' : '
 const apiKey = isProduction ? process.env.NEXT_PUBLIC_GRAFBASE_API_KEY || '' : 'letmein';
 const serverUrl = isProduction ? process.env.NEXT_PUBLIC_SERVER_URL : 'http://localhost:3000';
 
+
 const client = new GraphQLClient(apiUrl);
 
 export const fetchToken = async () => {
@@ -35,6 +36,7 @@ export const uploadImage = async (imagePath: string) => {
 
 const makeGraphQLRequest = async (query: string, variables = {}) => {
   try {
+    
     return await client.request(query, variables);
   } catch (err) {
     throw err;
@@ -43,7 +45,7 @@ const makeGraphQLRequest = async (query: string, variables = {}) => {
 
 export const fetchAllProjects = (category?: string | null, endcursor?: string | null) => {
   client.setHeader("x-api-key", apiKey);
-
+  category = category || '';
   return makeGraphQLRequest(projectsQuery, { category, endcursor });
 };
 
