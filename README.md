@@ -40,5 +40,6 @@
 |35| [3d portfolio](https://github.com/xml12333/reactJS/tree/35-3d-portfolio)| [Demo](https://nikt-3d-portfolio.netlify.app/)| ![Thumbnail](info/35-3d-portfolio/info_thumbnail.jpg)|
 |36| [3d ai](https://github.com/xml12333/reactJS/tree/36-3d-ai)| [Demo](https://nikt-3d-ai.netlify.app/)| ![Thumbnail](info/36-3d-ai/info_thumbnail.jpg)|
 |37| [Article ai](https://github.com/xml12333/reactJS/tree/37-article-ai)| [Demo](https://nikt-article-ai.netlify.app/)| ![Thumbnail](info/37-article-ai/info_thumbnail.jpg)|
-|38| [Promptopia](https://github.com/xml12333/reactJS/tree/38-promptopia)| [Demo](https://nikt-promptopia.netlify.app/)| ![Thumbnail](info/38-promptopia/info_thumbnail.jpg)|
+|38| [Promtopia](https://github.com/xml12333/reactJS/tree/38-promtopia)| [Demo](https://nikt-promtopia.netlify.app/)| ![Thumbnail](info/38-promtopia/info_thumbnail.jpg)|
 |39| [Car showcase](https://github.com/xml12333/reactJS/tree/39-car-showcase)| [Demo](https://nikt-car-showcase.netlify.app/)| ![Thumbnail](info/39-car-showcase/info_thumbnail.jpg)|
+|40| [Dribble clone](https://github.com/xml12333/reactJS/tree/40-dribble-clone)| [Demo](https://nikt-dribble-clone.netlify.app/)| ![Thumbnail](info/40-dribble-clone/info_thumbnail.jpg)|
