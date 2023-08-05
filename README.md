@@ -3,3 +3,5 @@
 npx create-next-app@latest
 ```
 @headlessui/react @types/jsonwebtoken @types/node @types/react @types/react-dom autoprefixer axios cloudinary graphql-request jsonwebtoken next next-auth postcss react react-dom supports-color tailwindcss typescript
+
+ npx grafbase@0.24 dev - for local backend
