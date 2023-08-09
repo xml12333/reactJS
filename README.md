@@ -43,3 +43,4 @@
 |38| [Promtopia](https://github.com/xml12333/reactJS/tree/38-promtopia)| [Demo](https://nikt-promtopia.netlify.app/)| ![Thumbnail](info/38-promtopia/info_thumbnail.jpg)|
 |39| [Car showcase](https://github.com/xml12333/reactJS/tree/39-car-showcase)| [Demo](https://nikt-car-showcase.netlify.app/)| ![Thumbnail](info/39-car-showcase/info_thumbnail.jpg)|
 |40| [Dribble clone](https://github.com/xml12333/reactJS/tree/40-dribble-clone)| [Demo](https://nikt-dribble-clone.netlify.app/)| ![Thumbnail](info/40-dribble-clone/info_thumbnail.jpg)|
+|41| [Real estate with ai](https://github.com/xml12333/reactJS/tree/41-real-estate-with-AI)| [Demo](https://nikt-real-estate-with-AI.netlify.app/)| ![Thumbnail](info/41-real-estate-with-AI/info_thumbnail.jpg)|
