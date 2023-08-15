@@ -44,3 +44,4 @@
 |39| [Car showcase](https://github.com/xml12333/reactJS/tree/39-car-showcase)| [Demo](https://nikt-car-showcase.netlify.app/)| ![Thumbnail](info/39-car-showcase/info_thumbnail.jpg)|
 |40| [Dribble clone](https://github.com/xml12333/reactJS/tree/40-dribble-clone)| [Demo](https://nikt-dribble-clone.netlify.app/)| ![Thumbnail](info/40-dribble-clone/info_thumbnail.jpg)|
 |41| [Real estate with ai](https://github.com/xml12333/reactJS/tree/41-real-estate-with-AI)| [Demo](https://nikt-real-estate-with-AI.netlify.app/)| ![Thumbnail](info/41-real-estate-with-AI/info_thumbnail.jpg)|
+|42| [Etan portfolio](https://github.com/xml12333/reactJS/tree/42-etan-portfolio)| [Demo](https://nikt-etan-portfolio.netlify.app/)| ![Thumbnail](info/42-etan-portfolio/info_thumbnail.jpg)|
