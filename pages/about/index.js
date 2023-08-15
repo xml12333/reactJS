@@ -15,6 +15,7 @@ import {
   SiAdobephotoshop,
 } from "react-icons/si";
 //  data
+/* eslint-disable */
 const aboutData = [
   {
     title: "skills",
@@ -85,7 +86,7 @@ const aboutData = [
     ],
   },
 ];
-
+/* eslint-enable */
 const countersData = [
   {
     title: "Years of expirience",

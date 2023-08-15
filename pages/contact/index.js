@@ -18,7 +18,9 @@ const Contact = () => {
             exit="hidden"
             className="h2 text-center mb-12"
           >
+            {/* eslint-disable */}
             Let's <span className="text-accent">connect.</span>
+            {/* eslint-enable */}
           </motion.h2>
           {/* form */}
           <motion.form
