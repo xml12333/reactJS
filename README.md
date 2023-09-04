@@ -46,3 +46,4 @@
 |41| [Real estate with ai](https://github.com/xml12333/reactJS/tree/41-real-estate-with-AI)| [Demo](https://nikt-real-estate-with-AI.netlify.app/)| ![Thumbnail](info/41-real-estate-with-AI/info_thumbnail.jpg)|
 |42| [Etan portfolio](https://github.com/xml12333/reactJS/tree/42-etan-portfolio)| [Demo](https://nikt-etan-portfolio.netlify.app/)| ![Thumbnail](info/42-etan-portfolio/info_thumbnail.jpg)|
 |43| [Saas ai platform](https://github.com/xml12333/reactJS/tree/43-saas-ai-platform)| [Demo](https://nikt-saas-ai-platform.netlify.app/)| ![Thumbnail](info/43-saas-ai-platform/info_thumbnail.jpg)|
+|44| [Ai companion](https://github.com/xml12333/reactJS/tree/44-ai-companion)| [Demo](https://nikt-ai-companion.netlify.app/)| ![Thumbnail](info/44-ai-companion/info_thumbnail.jpg)|
