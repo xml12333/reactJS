@@ -48,3 +48,4 @@
 |43| [Saas ai platform](https://github.com/xml12333/reactJS/tree/43-saas-ai-platform)| [Demo](https://nikt-saas-ai-platform.netlify.app/)| ![Thumbnail](info/43-saas-ai-platform/info_thumbnail.jpg)|
 |44| [Ai companion](https://github.com/xml12333/reactJS/tree/44-ai-companion)| [Demo](https://nikt-ai-companion.netlify.app/)| ![Thumbnail](info/44-ai-companion/info_thumbnail.jpg)|
 |45| [Threads](https://github.com/xml12333/reactJS/tree/45-threads)| [Demo](https://nikt-threads.netlify.app/)| ![Thumbnail](info/45-threads/info_thumbnail.jpg)|
+|46| [Carland](https://github.com/xml12333/reactJS/tree/46-carland)| [Demo](https://nikt-carland.netlify.app/)| ![Thumbnail](info/46-carland/info_thumbnail.jpg)|
